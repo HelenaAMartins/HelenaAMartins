@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm  **Helena Martins**. I'm a Brazilian Front-end developer. I currently live in São Paulo and work remotely for [Outroll](https://outroll.com) as Front-end developer JR and Project Manager JR.
+I'm  **Helena Martins**. I'm a Brazilian Front-end developer. I currently live in São Paulo and I've been working remotely for [Outroll](https://outroll.com) as Front-end developer JR and Project Manager JR.
  
 I've been studying Front-end since 2020 and I've taken part in the developing group of [Victoria Chamber of Commerce and Industry](https://www.victorianchamber.com.au), and worked as Front-end developer and Project manager at [Global Parking Solutions](https://www.globalparkingsolutions.com) and [Tote Bar and Dining](https://www.totebaranddining.com.au).
 
