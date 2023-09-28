@@ -1,6 +1,6 @@
 # Hello World!
 
-I'm  **Helena Martins**. I'm a Brazilian Front-end developer. I currently live in São Paulo and I've been working remotely for [Magna Sistemas](https://www.magnasistemas.com.br/wps/portal/internet) as Front-end developer JR.
+I'm  **Helena Martins**. I'm a Brazilian Front-end developer. I currently live in Fortaleza and I've been working remotely for [Magna Sistemas](https://www.magnasistemas.com.br/wps/portal/internet) as Front-end developer JR.
  
 I've been studying Front-end since 2020 and I've taken part in the developing group of [Victoria Chamber of Commerce and Industry](https://www.victorianchamber.com.au), and worked as Front-end developer and Project manager at [Global Parking Solutions](https://www.globalparkingsolutions.com) and [Tote Bar and Dining](https://www.totebaranddining.com.au) when working for [Outroll](https://www.outroll.com).
 
